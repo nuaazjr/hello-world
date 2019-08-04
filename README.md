@@ -1,2 +1,6 @@
 # hello-world
-Just another repository
+
+Hi Humans!
+
+Janie here, I like c++ and control theroy.
+
